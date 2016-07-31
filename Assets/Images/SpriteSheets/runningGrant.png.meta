@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: cb551b90db3e1404c9195b3af325ef53
+timeCreated: 1469365260
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: runningGrant_0
+    21300002: runningGrant_1
+    21300004: runningGrant_2
+    21300006: runningGrant_3
+    21300008: runningGrant_4
+    21300010: runningGrant_5
+    21300012: runningGrant_6
+    21300014: runningGrant_7
+    21300016: runningGrant_8
+    21300018: runningGrant_9
+    21300020: runningGrant_10
+    21300022: runningGrant_11
+    21300024: runningGrant_12
+    21300026: runningGrant_13
+    21300028: runningGrant_14
+    21300030: runningGrant_15
+    21300032: runningGrant_16
+    21300034: runningGrant_17
+    21300036: runningGrant_18
+    21300038: runningGrant_19
+    21300040: runningGrant_20
+    21300042: runningGrant_21
+    21300044: runningGrant_22
+    21300046: runningGrant_23
+    21300048: runningGrant_24
+    21300050: runningGrant_25
+    21300052: runningGrant_26
+    21300054: runningGrant_27
+    21300056: runningGrant_28
+    21300058: runningGrant_29
+    21300060: runningGrant_30
+    21300062: runningGrant_31
+    21300064: runningGrant_32
+    21300066: runningGrant_33
+    21300068: runningGrant_34
+    21300070: runningGrant_35
+    21300072: runningGrant_36
+    21300074: runningGrant_37
+    21300076: runningGrant_38
+    21300078: runningGrant_39
+    21300080: runningGrant_40
+    21300082: runningGrant_41
+    21300084: runningGrant_42
+    21300086: runningGrant_43
+    21300088: runningGrant_44
+    21300090: runningGrant_45
+    21300092: runningGrant_46
+    21300094: runningGrant_47
+    21300096: runningGrant_48
+    21300098: runningGrant_49
+    21300100: runningGrant_50
+    21300102: runningGrant_51
+    21300104: runningGrant_52
+    21300106: runningGrant_53
+    21300108: runningGrant_54
+    21300110: runningGrant_55
+    21300112: runningGrant_56
+    21300114: runningGrant_57
+    21300116: runningGrant_58
+    21300118: runningGrant_59
+    21300120: runningGrant_60
+    21300122: runningGrant_61
+    21300124: runningGrant_62
+    21300126: runningGrant_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: runningGrant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 161
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 55}
+        - {x: -17.5, y: 54}
+        - {x: -40.5, y: -21}
+        - {x: -40.5, y: -45}
+        - {x: -37.5, y: -53}
+        - {x: -36.5, y: -54}
+        - {x: -7.5, y: -54}
+        - {x: 40.5, y: -49}
+        - {x: 40.5, y: 55}
+    - name: runningGrant_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1763
+        width: 160
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 55}
+        - {x: -27, y: 40}
+        - {x: -36, y: -17}
+        - {x: -33, y: -25}
+        - {x: -30, y: -27}
+        - {x: -28, y: -27}
+        - {x: -23, y: -30}
+        - {x: -22, y: -29}
+        - {x: -27, y: -29}
+        - {x: -35, y: -25}
+        - {x: -40, y: -29}
+        - {x: -40, y: -45}
+        - {x: -36, y: -54}
+        - {x: 41, y: -54}
+        - {x: 41, y: 55}
+    - name: runningGrant_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1759
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 16}
+        - {x: 19.5, y: 12}
+        - {x: 25.5, y: 21}
+        - {x: 31.5, y: 41}
+        - {x: 22.5, y: 56}
+        - {x: -21.5, y: 56}
+        - {x: -36.5, y: 7}
+        - {x: -24.5, y: -27}
+        - {x: -22.5, y: -29}
+        - {x: -30.5, y: -28}
+        - {x: -34.5, y: -28}
+        - {x: -37.5, y: -30}
+        - {x: -37.5, y: -45}
+        - {x: -36.5, y: -50}
+        - {x: -32.5, y: -55}
+        - {x: 25.5, y: -55}
+        - {x: 38.5, y: -48}
+        - {x: 38.5, y: 4}
+    - name: runningGrant_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1759
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 56}
+        - {x: -10.5, y: 56}
+        - {x: -18.5, y: 47}
+        - {x: -37.5, y: -21}
+        - {x: -37.5, y: -46}
+        - {x: -33.5, y: -55}
+        - {x: 32.5, y: -55}
+        - {x: 38.5, y: -52}
+        - {x: 38.5, y: 23}
+    - name: runningGrant_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1757
+        width: 120
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -30, y: 11}
+        - {x: -30, y: -54}
+        - {x: -26, y: -55}
+        - {x: 31, y: -55}
+        - {x: 31, y: 56}
+    - name: runningGrant_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1757
+        width: 118
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 56}
+        - {x: -29.5, y: -1}
+        - {x: -29.5, y: -50}
+        - {x: -28.5, y: -51}
+        - {x: -22.5, y: -53}
+        - {x: -3.5, y: -45}
+        - {x: -0.5, y: -39}
+        - {x: -2.5, y: -46}
+        - {x: 1.5, y: -55}
+        - {x: 30.5, y: -55}
+        - {x: 30.5, y: 56}
+    - name: runningGrant_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1757
+        width: 110
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 56}
+        - {x: -19.5, y: 52}
+        - {x: -27.5, y: -2}
+        - {x: -27.5, y: -53}
+        - {x: -19.5, y: -51}
+        - {x: -15.5, y: -46}
+        - {x: -13.5, y: -43}
+        - {x: -7.5, y: -43}
+        - {x: -9.5, y: -43}
+        - {x: -12.5, y: -47}
+        - {x: -12.5, y: -52}
+        - {x: -9.5, y: -55}
+        - {x: 16.5, y: -55}
+        - {x: 28.5, y: -35}
+        - {x: 28.5, y: 56}
+    - name: runningGrant_7
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1757
+        width: 108
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 56}
+        - {x: -27, y: 39}
+        - {x: -27, y: -55}
+        - {x: -25, y: -55}
+        - {x: -15, y: -45}
+        - {x: -12, y: -52}
+        - {x: -9, y: -55}
+        - {x: 28, y: -55}
+        - {x: 28, y: 54}
+        - {x: 26, y: 56}
+    - name: runningGrant_8
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1755
+        width: 102
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 58}
+        - {x: -13.5, y: 58}
+        - {x: -25.5, y: 20}
+        - {x: -25.5, y: -57}
+        - {x: 6.5, y: -57}
+        - {x: 26.5, y: -39}
+        - {x: 26.5, y: 50}
+        - {x: 25.5, y: 55}
+    - name: runningGrant_9
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1755
+        width: 100
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 58}
+        - {x: -25, y: 33}
+        - {x: -25, y: -53}
+        - {x: -17, y: -57}
+        - {x: 26, y: -57}
+        - {x: 26, y: 58}
+    - name: runningGrant_10
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1755
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 52}
+        - {x: 22.5, y: 58}
+        - {x: -19.5, y: 58}
+        - {x: -36.5, y: 14}
+        - {x: -36.5, y: -45}
+        - {x: -28.5, y: -57}
+        - {x: -0.5, y: -57}
+        - {x: 1.5, y: -55}
+        - {x: 5.5, y: -47}
+        - {x: 37.5, y: -19}
+        - {x: 37.5, y: 31}
+    - name: runningGrant_11
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1755
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 58}
+        - {x: -19.5, y: 51}
+        - {x: -36.5, y: 5}
+        - {x: -36.5, y: -50}
+        - {x: -33.5, y: -57}
+        - {x: 9.5, y: -57}
+        - {x: 37.5, y: -36}
+        - {x: 37.5, y: 58}
+    - name: runningGrant_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1463
+        width: 156
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 58}
+        - {x: -39, y: 11}
+        - {x: -39, y: -26}
+        - {x: -37, y: -31}
+        - {x: -32, y: -32}
+        - {x: -27, y: -32}
+        - {x: -22, y: -30}
+        - {x: -20, y: -27}
+        - {x: -23, y: -32}
+        - {x: -32, y: -32}
+        - {x: -39, y: -34}
+        - {x: -39, y: -35}
+        - {x: -30, y: -57}
+        - {x: 16, y: -57}
+        - {x: 40, y: -13}
+        - {x: 40, y: 37}
+        - {x: 29, y: 58}
+    - name: runningGrant_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1463
+        width: 156
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -30}
+        - {x: 37, y: -2}
+        - {x: 40, y: 4}
+        - {x: 40, y: 12}
+        - {x: 35, y: 18}
+        - {x: 30, y: 54}
+        - {x: 21, y: 58}
+        - {x: -5, y: 58}
+        - {x: -13, y: 56}
+        - {x: -19, y: 40}
+        - {x: -39, y: 0}
+        - {x: -39, y: -31}
+        - {x: -38, y: -32}
+        - {x: -28, y: -32}
+        - {x: -21, y: -29}
+        - {x: -19, y: -23}
+        - {x: -18, y: -32}
+        - {x: -32, y: -32}
+        - {x: -36, y: -36}
+        - {x: -37, y: -40}
+        - {x: -28, y: -55}
+        - {x: -24, y: -57}
+        - {x: -17, y: -57}
+        - {x: -15, y: -54}
+        - {x: 10, y: -54}
+        - {x: 13, y: -44}
+    - name: runningGrant_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1475
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 18}
+        - {x: 26, y: 19}
+        - {x: 20, y: 15}
+        - {x: 19, y: 12}
+        - {x: 18, y: 12}
+        - {x: 21, y: 16}
+        - {x: 25, y: 19}
+        - {x: 28, y: 22}
+        - {x: 34, y: 40}
+        - {x: 26, y: 54}
+        - {x: -12, y: 54}
+        - {x: -23, y: 51}
+        - {x: -38, y: -9}
+        - {x: -38, y: -48}
+        - {x: -36, y: -53}
+        - {x: 18, y: -53}
+        - {x: 31, y: -49}
+        - {x: 39, y: -17}
+        - {x: 39, y: 16}
+    - name: runningGrant_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1475
+        width: 150
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 19}
+        - {x: 21.5, y: 17}
+        - {x: 19.5, y: 14}
+        - {x: 19.5, y: 11}
+        - {x: 18.5, y: 14}
+        - {x: 35.5, y: 29}
+        - {x: 26.5, y: 54}
+        - {x: -10.5, y: 54}
+        - {x: -22.5, y: 47}
+        - {x: -37.5, y: -7}
+        - {x: -37.5, y: -46}
+        - {x: -32.5, y: -53}
+        - {x: 35.5, y: -53}
+        - {x: 38.5, y: -39}
+        - {x: 38.5, y: 15}
+        - {x: 28.5, y: 19}
+    - name: runningGrant_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1473
+        width: 142
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 54.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -35.5, y: -6.5}
+        - {x: -35.5, y: -53.5}
+        - {x: 25.5, y: -53.5}
+        - {x: 36.5, y: -44.5}
+        - {x: 36.5, y: 49.5}
+        - {x: 26.5, y: 54.5}
+    - name: runningGrant_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1473
+        width: 144
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 29.5}
+        - {x: 25, y: 54.5}
+        - {x: -10, y: 54.5}
+        - {x: -26, y: 36.5}
+        - {x: -36, y: -13.5}
+        - {x: -36, y: -53.5}
+        - {x: 30, y: -53.5}
+        - {x: 37, y: -38.5}
+        - {x: 37, y: 16.5}
+        - {x: 25, y: 17.5}
+        - {x: 20, y: 14.5}
+        - {x: 18, y: 11.5}
+    - name: runningGrant_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1463
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56.5}
+        - {x: -30, y: 28.5}
+        - {x: -30, y: -49.5}
+        - {x: -29, y: -53.5}
+        - {x: -28, y: -55.5}
+        - {x: 19, y: -55.5}
+        - {x: 31, y: -43.5}
+        - {x: 31, y: 56.5}
+    - name: runningGrant_19
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1463
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 56.5}
+        - {x: -27, y: 56.5}
+        - {x: -30, y: 39.5}
+        - {x: -30, y: -55.5}
+        - {x: 4, y: -55.5}
+        - {x: 15, y: -53.5}
+        - {x: 12, y: -45.5}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 47.5}
+    - name: runningGrant_20
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1463
+        width: 100
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 57}
+        - {x: -21, y: 48}
+        - {x: -25, y: 19}
+        - {x: -25, y: -56}
+        - {x: 11, y: -56}
+        - {x: 26, y: -40}
+        - {x: 26, y: 57}
+    - name: runningGrant_21
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1463
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 25}
+        - {x: 25.5, y: 57}
+        - {x: -24.5, y: 57}
+        - {x: -24.5, y: -56}
+        - {x: 10.5, y: -56}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: -3}
+        - {x: 18.5, y: 1}
+    - name: runningGrant_22
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1463
+        width: 112
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 58}
+        - {x: -9, y: 58}
+        - {x: -17, y: 49}
+        - {x: -28, y: -18}
+        - {x: -28, y: -57}
+        - {x: 16, y: -57}
+        - {x: 29, y: -25}
+        - {x: 29, y: 57}
+        - {x: 27, y: 57}
+    - name: runningGrant_23
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1463
+        width: 110
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 58}
+        - {x: -27.5, y: -57}
+        - {x: 0.5, y: -57}
+        - {x: 28.5, y: -31}
+        - {x: 28.5, y: 58}
+    - name: runningGrant_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1171
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 57}
+        - {x: -11.5, y: 53}
+        - {x: -36.5, y: -22}
+        - {x: -36.5, y: -56}
+        - {x: 23.5, y: -56}
+        - {x: 37.5, y: -19}
+        - {x: 37.5, y: 52}
+        - {x: 28.5, y: 57}
+    - name: runningGrant_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1171
+        width: 148
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -12}
+        - {x: 38, y: 51}
+        - {x: 28, y: 57}
+        - {x: -12, y: 57}
+        - {x: -37, y: -7}
+        - {x: -37, y: -53}
+        - {x: -35, y: -56}
+        - {x: 19, y: -56}
+        - {x: 32, y: -33}
+        - {x: 23, y: -24}
+        - {x: 16, y: -20}
+    - name: runningGrant_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1183
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 18}
+        - {x: 26, y: 19}
+        - {x: 20, y: 15}
+        - {x: 19, y: 12}
+        - {x: 18, y: 12}
+        - {x: 21, y: 16}
+        - {x: 25, y: 19}
+        - {x: 28, y: 22}
+        - {x: 34, y: 40}
+        - {x: 26, y: 54}
+        - {x: -12, y: 54}
+        - {x: -23, y: 51}
+        - {x: -38, y: -9}
+        - {x: -38, y: -48}
+        - {x: -36, y: -53}
+        - {x: 18, y: -53}
+        - {x: 31, y: -49}
+        - {x: 39, y: -17}
+        - {x: 39, y: 16}
+    - name: runningGrant_27
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1183
+        width: 150
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 19}
+        - {x: 21.5, y: 17}
+        - {x: 19.5, y: 14}
+        - {x: 19.5, y: 11}
+        - {x: 18.5, y: 14}
+        - {x: 35.5, y: 29}
+        - {x: 26.5, y: 54}
+        - {x: -10.5, y: 54}
+        - {x: -22.5, y: 47}
+        - {x: -37.5, y: -7}
+        - {x: -37.5, y: -46}
+        - {x: -32.5, y: -53}
+        - {x: 35.5, y: -53}
+        - {x: 38.5, y: -39}
+        - {x: 38.5, y: 15}
+        - {x: 28.5, y: 19}
+    - name: runningGrant_28
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1181
+        width: 142
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 54.5}
+        - {x: -25.5, y: 25.5}
+        - {x: -35.5, y: -6.5}
+        - {x: -35.5, y: -53.5}
+        - {x: 25.5, y: -53.5}
+        - {x: 36.5, y: -44.5}
+        - {x: 36.5, y: 49.5}
+        - {x: 26.5, y: 54.5}
+    - name: runningGrant_29
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1181
+        width: 144
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 29.5}
+        - {x: 25, y: 54.5}
+        - {x: -10, y: 54.5}
+        - {x: -26, y: 36.5}
+        - {x: -36, y: -13.5}
+        - {x: -36, y: -53.5}
+        - {x: 30, y: -53.5}
+        - {x: 37, y: -38.5}
+        - {x: 37, y: 16.5}
+        - {x: 25, y: 17.5}
+        - {x: 20, y: 14.5}
+        - {x: 18, y: 11.5}
+    - name: runningGrant_30
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 977
+        width: 150
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 50}
+        - {x: -37.5, y: -1}
+        - {x: -37.5, y: -49}
+        - {x: 33.5, y: -49}
+        - {x: 37.5, y: -34}
+        - {x: 37.5, y: 42}
+        - {x: 35.5, y: 50}
+    - name: runningGrant_31
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 977
+        width: 152
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 50}
+        - {x: -13, y: 50}
+        - {x: -38, y: -8}
+        - {x: -38, y: -49}
+        - {x: 36, y: -49}
+        - {x: 39, y: -40}
+        - {x: 39, y: 37}
+    - name: runningGrant_32
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1175
+        width: 94
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 57.5}
+        - {x: -23.5, y: 48.5}
+        - {x: -23.5, y: -56.5}
+        - {x: 6.5, y: -56.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 24.5, y: 48.5}
+        - {x: 19.5, y: 57.5}
+    - name: runningGrant_33
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1175
+        width: 94
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 20.5}
+        - {x: 24.5, y: 46.5}
+        - {x: 22.5, y: 57.5}
+        - {x: -23.5, y: 57.5}
+        - {x: -23.5, y: -56.5}
+        - {x: 7.5, y: -56.5}
+        - {x: 24.5, y: -22.5}
+        - {x: 24.5, y: -7.5}
+        - {x: 19.5, y: -1.5}
+    - name: runningGrant_34
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1175
+        width: 124
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -12.5}
+        - {x: 32, y: 2.5}
+        - {x: 23, y: 8.5}
+        - {x: 32, y: 45.5}
+        - {x: 20, y: 59.5}
+        - {x: -21, y: 59.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -58.5}
+        - {x: -6, y: -58.5}
+        - {x: -3, y: -52.5}
+        - {x: -6, y: -46.5}
+        - {x: 12, y: -56.5}
+    - name: runningGrant_35
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1175
+        width: 124
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -51.5}
+        - {x: 32, y: -12.5}
+        - {x: 32, y: 0.5}
+        - {x: 31, y: 3.5}
+        - {x: 22, y: 7.5}
+        - {x: 30, y: 44.5}
+        - {x: 21, y: 59.5}
+        - {x: -12, y: 59.5}
+        - {x: -22, y: 53.5}
+        - {x: -31, y: 18.5}
+        - {x: -31, y: -58.5}
+        - {x: -6, y: -58.5}
+        - {x: -4, y: -52.5}
+        - {x: -7, y: -47.5}
+        - {x: 4, y: -52.5}
+    - name: runningGrant_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 923
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 17}
+        - {x: 17, y: 13}
+        - {x: 14, y: 6}
+        - {x: 14, y: 12}
+        - {x: 28, y: 21}
+        - {x: 33, y: 56}
+        - {x: -20, y: 56}
+        - {x: -35, y: 13}
+        - {x: -35, y: -53}
+        - {x: -33, y: -55}
+        - {x: 30, y: -55}
+        - {x: 36, y: -36}
+        - {x: 36, y: 11}
+    - name: runningGrant_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 923
+        width: 142
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 13}
+        - {x: 19.5, y: 14}
+        - {x: 31.5, y: 32}
+        - {x: 35.5, y: 51}
+        - {x: 26.5, y: 56}
+        - {x: -13.5, y: 56}
+        - {x: -35.5, y: 5}
+        - {x: -35.5, y: -52}
+        - {x: -34.5, y: -55}
+        - {x: 32.5, y: -55}
+        - {x: 36.5, y: -43}
+        - {x: 36.5, y: 14}
+        - {x: 27.5, y: 17}
+    - name: runningGrant_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 953
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 51.5}
+        - {x: -37.5, y: -26.5}
+        - {x: -37.5, y: -50.5}
+        - {x: 38.5, y: -50.5}
+        - {x: 38.5, y: 43.5}
+        - {x: 34.5, y: 51.5}
+    - name: runningGrant_39
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 953
+        width: 148
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51.5}
+        - {x: -37, y: -23.5}
+        - {x: -37, y: -50.5}
+        - {x: 32, y: -50.5}
+        - {x: 38, y: -35.5}
+        - {x: 38, y: 36.5}
+        - {x: 33, y: 51.5}
+    - name: runningGrant_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 973
+        width: 152
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 49}
+        - {x: -22, y: 30}
+        - {x: -38, y: -19}
+        - {x: -38, y: -48}
+        - {x: 34, y: -48}
+        - {x: 39, y: -31}
+        - {x: 39, y: 34}
+        - {x: 31, y: 49}
+    - name: runningGrant_41
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 973
+        width: 154
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 49}
+        - {x: -38.5, y: 5}
+        - {x: -38.5, y: -48}
+        - {x: 38.5, y: -48}
+        - {x: 39.5, y: -46}
+        - {x: 39.5, y: 44}
+        - {x: 37.5, y: 49}
+    - name: runningGrant_42
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 963
+        width: 144
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -47.5}
+        - {x: 10, y: -51.5}
+        - {x: 28, y: -51.5}
+        - {x: 37, y: -50.5}
+        - {x: 37, y: 25.5}
+        - {x: 20, y: 10.5}
+        - {x: 18, y: 8.5}
+        - {x: 26, y: 17.5}
+        - {x: 33, y: 28.5}
+        - {x: 28, y: 48.5}
+        - {x: 22, y: 52.5}
+        - {x: -25, y: 52.5}
+        - {x: -36, y: -30.5}
+        - {x: -36, y: -51.5}
+        - {x: -16, y: -51.5}
+        - {x: -8, y: -49.5}
+        - {x: -4, y: -44.5}
+        - {x: -3, y: -38.5}
+        - {x: -3, y: -42.5}
+    - name: runningGrant_43
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 963
+        width: 144
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -42.5}
+        - {x: 0, y: -47.5}
+        - {x: 16, y: -51.5}
+        - {x: 23, y: -51.5}
+        - {x: 37, y: -25.5}
+        - {x: 37, y: 26.5}
+        - {x: 20, y: 10.5}
+        - {x: 18, y: 8.5}
+        - {x: 11, y: -1.5}
+        - {x: 10, y: 4.5}
+        - {x: 15, y: 6.5}
+        - {x: 26, y: 17.5}
+        - {x: 32, y: 28.5}
+        - {x: 30, y: 45.5}
+        - {x: 19, y: 52.5}
+        - {x: -7, y: 52.5}
+        - {x: -19, y: 44.5}
+        - {x: -36, y: -8.5}
+        - {x: -36, y: -51.5}
+        - {x: -7, y: -51.5}
+        - {x: -4, y: -46.5}
+        - {x: -4, y: -35.5}
+    - name: runningGrant_44
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 941
+        width: 126
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 57.5}
+        - {x: -20.5, y: 57.5}
+        - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -56.5}
+        - {x: 20.5, y: -56.5}
+        - {x: 22.5, y: -42.5}
+        - {x: 32.5, y: -20.5}
+        - {x: 32.5, y: 27.5}
+    - name: runningGrant_45
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 941
+        width: 124
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 57.5}
+        - {x: -31, y: 53.5}
+        - {x: -31, y: -56.5}
+        - {x: 22, y: -56.5}
+        - {x: 32, y: -51.5}
+        - {x: 32, y: 52.5}
+        - {x: 23, y: 57.5}
+    - name: runningGrant_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 649
+        width: 128
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 56.5}
+        - {x: -8, y: 50.5}
+        - {x: -32, y: 9.5}
+        - {x: -32, y: -37.5}
+        - {x: -12, y: -55.5}
+        - {x: 33, y: -55.5}
+        - {x: 33, y: 56.5}
+    - name: runningGrant_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 649
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 56.5}
+        - {x: -31.5, y: 22.5}
+        - {x: -31.5, y: -37.5}
+        - {x: -9.5, y: -55.5}
+        - {x: 25.5, y: -55.5}
+        - {x: 32.5, y: -48.5}
+        - {x: 32.5, y: 52.5}
+        - {x: 28.5, y: 56.5}
+    - name: runningGrant_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 635
+        width: 132
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 57}
+        - {x: -33, y: 15}
+        - {x: -33, y: -56}
+        - {x: 30, y: -56}
+        - {x: 34, y: -51}
+        - {x: 34, y: 57}
+    - name: runningGrant_49
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 635
+        width: 132
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -33, y: 28}
+        - {x: -33, y: -36}
+        - {x: -29, y: -42}
+        - {x: -7, y: -56}
+        - {x: 11, y: -56}
+        - {x: 34, y: -51}
+        - {x: 34, y: 43}
+        - {x: 28, y: 57}
+    - name: runningGrant_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 611
+        width: 140
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 58.5}
+        - {x: -17, y: 36.5}
+        - {x: -35, y: -3.5}
+        - {x: -35, y: -31.5}
+        - {x: -23, y: -37.5}
+        - {x: -13, y: -25.5}
+        - {x: -15, y: -18.5}
+        - {x: -15, y: -14.5}
+        - {x: -15, y: -17.5}
+        - {x: -13, y: -25.5}
+        - {x: -8, y: -31.5}
+        - {x: -1, y: -57.5}
+        - {x: 12, y: -57.5}
+        - {x: 30, y: -51.5}
+        - {x: 36, y: -43.5}
+        - {x: 36, y: 58.5}
+    - name: runningGrant_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 611
+        width: 142
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 58.5}
+        - {x: -17.5, y: 52.5}
+        - {x: -35.5, y: -0.5}
+        - {x: -35.5, y: -32.5}
+        - {x: -22.5, y: -38.5}
+        - {x: -15.5, y: -28.5}
+        - {x: -15.5, y: -12.5}
+        - {x: -15.5, y: -17.5}
+        - {x: -13.5, y: -27.5}
+        - {x: -1.5, y: -51.5}
+        - {x: 2.5, y: -57.5}
+        - {x: 12.5, y: -57.5}
+        - {x: 36.5, y: -44.5}
+        - {x: 36.5, y: 47.5}
+        - {x: 34.5, y: 58.5}
+    - name: runningGrant_52
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 591
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 56}
+        - {x: -14, y: 51}
+        - {x: -31, y: -21}
+        - {x: -31, y: -53}
+        - {x: -25, y: -55}
+        - {x: 32, y: -55}
+        - {x: 32, y: 56}
+    - name: runningGrant_53
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 591
+        width: 122
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 56}
+        - {x: -16.5, y: 28}
+        - {x: -30.5, y: -23}
+        - {x: -30.5, y: -45}
+        - {x: -11.5, y: -55}
+        - {x: 27.5, y: -55}
+        - {x: 31.5, y: -52}
+        - {x: 31.5, y: 56}
+    - name: runningGrant_54
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 591
+        width: 100
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 50.5}
+        - {x: 23, y: 52.5}
+        - {x: -16, y: 52.5}
+        - {x: -25, y: 29.5}
+        - {x: -25, y: -43.5}
+        - {x: -20, y: -51.5}
+        - {x: 19, y: -51.5}
+        - {x: 21, y: -44.5}
+        - {x: 12, y: -28.5}
+        - {x: 26, y: 24.5}
+    - name: runningGrant_55
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 591
+        width: 98
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 52.5}
+        - {x: -15.5, y: 52.5}
+        - {x: -24.5, y: 49.5}
+        - {x: -24.5, y: -47.5}
+        - {x: -17.5, y: -51.5}
+        - {x: 18.5, y: -51.5}
+        - {x: 21.5, y: -44.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 43.5}
+    - name: runningGrant_56
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 591
+        width: 92
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 54}
+        - {x: -15, y: 54}
+        - {x: -23, y: 40}
+        - {x: -23, y: -53}
+        - {x: 17, y: -53}
+        - {x: 19, y: -46}
+        - {x: 24, y: -21}
+        - {x: 24, y: 48}
+    - name: runningGrant_57
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 591
+        width: 92
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 54}
+        - {x: -23, y: 12}
+        - {x: -23, y: -22}
+        - {x: -21, y: -26}
+        - {x: -23, y: -44}
+        - {x: -19, y: -53}
+        - {x: 17, y: -53}
+        - {x: 20, y: -46}
+        - {x: 24, y: -30}
+        - {x: 24, y: 54}
+    - name: runningGrant_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 299
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 56}
+        - {x: -23, y: 56}
+        - {x: -23, y: -55}
+        - {x: 18, y: -55}
+        - {x: 20, y: -47}
+        - {x: 14, y: -42}
+        - {x: 24, y: -28}
+    - name: runningGrant_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 299
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 56}
+        - {x: -23, y: -49}
+        - {x: -21, y: -55}
+        - {x: 24, y: -55}
+        - {x: 24, y: 54}
+        - {x: 23, y: 56}
+    - name: runningGrant_60
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 295
+        width: 130
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -31}
+        - {x: -1.5, y: -35}
+        - {x: -7.5, y: -40}
+        - {x: -7.5, y: -47}
+        - {x: 0.5, y: -57}
+        - {x: 12.5, y: -57}
+        - {x: 33.5, y: -47}
+        - {x: 33.5, y: -3}
+        - {x: 29.5, y: -1}
+        - {x: 25.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 18.5, y: -1}
+        - {x: 29.5, y: 34}
+        - {x: 23.5, y: 57}
+        - {x: 19.5, y: 58}
+        - {x: -8.5, y: 58}
+        - {x: -21.5, y: 50}
+        - {x: -32.5, y: -32}
+        - {x: -32.5, y: -48}
+        - {x: -18.5, y: -57}
+        - {x: -8.5, y: -57}
+        - {x: -6.5, y: -49}
+        - {x: -10.5, y: -45}
+        - {x: -5.5, y: -37}
+    - name: runningGrant_61
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 295
+        width: 130
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: -37}
+        - {x: -6.5, y: -40}
+        - {x: -6.5, y: -47}
+        - {x: -3.5, y: -51}
+        - {x: 9.5, y: -57}
+        - {x: 33.5, y: -57}
+        - {x: 33.5, y: 58}
+        - {x: -19.5, y: 58}
+        - {x: -32.5, y: -13}
+        - {x: -32.5, y: -53}
+        - {x: -21.5, y: -57}
+        - {x: -8.5, y: -57}
+        - {x: -6.5, y: -52}
+        - {x: -8.5, y: -48}
+        - {x: -11.5, y: -44}
+    - name: runningGrant_62
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1173
+        width: 139
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -19.5}
+        - {x: 34.5, y: 51.5}
+        - {x: 20.5, y: 55.5}
+        - {x: -17.5, y: 55.5}
+        - {x: -22.5, y: 47.5}
+        - {x: -30.5, y: -3.5}
+        - {x: -30.5, y: -52.5}
+        - {x: -23.5, y: -54.5}
+        - {x: 12.5, y: -54.5}
+        - {x: 18.5, y: -48.5}
+        - {x: 17.5, y: -44.5}
+        - {x: 11.5, y: -37.5}
+    - name: runningGrant_63
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1173
+        width: 137
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56}
+        - {x: -30, y: 5}
+        - {x: -30, y: -55}
+        - {x: 25, y: -55}
+        - {x: 35, y: -41}
+        - {x: 35, y: 51}
+        - {x: 33, y: 56}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
